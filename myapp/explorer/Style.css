@@ -25,18 +25,22 @@ button.folder {
 button.file:hover {
   background-color: #ffffff; /* Green */
   border: 8px solid #4CAF50;
+    color: #000000;
 }
 button.folder:hover {
   background-color: #ffffff; /* Green */
   border: 8px solid #008CBA;
+    color: #000000;
 }
 button.file:active {
   background-color: #ffffff; /* Green */
   border: 16px solid #4CAF50;
+    color: #000000;
 }
 button.folder:active {
   background-color: #ffffff; /* Green */
   border: 16px solid #008CBA;
+    color: #000000;
 }
 div.file {
     font-family: Arial, Helvetica, sans-serif;
