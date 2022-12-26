@@ -38,3 +38,9 @@ button.folder:active {
   background-color: #ffffff; /* Green */
   border: 16px solid #008CBA;
 }
+div.file {
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.folder {
+    font-family: "Times New Roman", Times, serif;
+}
