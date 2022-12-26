@@ -1,0 +1,40 @@
+button.file {
+    background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  padding: 12px 28px;
+  transition-duration: 0.4s;
+}
+button.folder {
+    background-color: #008CBA; /* Blue */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  padding: 12px 28px;
+  transition-duration: 0.4s;
+}
+button.file:hover {
+  background-color: #ffffff; /* Green */
+  border: 8px solid #4CAF50;
+}
+button.folder:hover {
+  background-color: #ffffff; /* Green */
+  border: 8px solid #008CBA;
+}
+button.file:active {
+  background-color: #ffffff; /* Green */
+  border: 16px solid #4CAF50;
+}
+button.folder:active {
+  background-color: #ffffff; /* Green */
+  border: 16px solid #008CBA;
+}
